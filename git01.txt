@@ -1,6 +1,2 @@
 hello
 hello world
-add fa
-1111
-fa2222
-cccc
